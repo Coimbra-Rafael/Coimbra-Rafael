@@ -59,7 +59,7 @@ Atuar como desenvolvedor backend, contribuindo para a criação e manutenção d
   Angular (Iniciante), React (Iniciante), Blazor, Bootstrap
 
 - **Bancos de Dados:**  
-  MySQL, SQL Server, SQLite
+  MySQL, SQL Server, SQLite, Postgresql
 
 - **Padrões e Boas Práticas:**  
   DDD, CQRS, Clean Architecture, SOLID
@@ -76,7 +76,7 @@ Atuar como desenvolvedor backend, contribuindo para a criação e manutenção d
   - Java COMPLETO – Programação orientada a objetos  
   - .NET WEB API – Do zero ao avançado  
   - Blazor: Desenvolvimento Aplicações Web  
-  - Docker para Desenvolvedores (com Docker Swarm e Kubernetes) – Andamento
+  - Docker para Desenvolvedores (com Docker Swarm e Kubernetes)
 
 ---
 
@@ -92,7 +92,6 @@ Projeto de automação para emissão de Notas Fiscais de Serviço (NFSe), integr
 
 ### Outros Projetos
 
-Explore outros repositórios disponíveis em meu GitHub, onde você encontrará soluções diversas, desde automações específicas até aplicações web e integrações de sistemas.
 
 ---
 
